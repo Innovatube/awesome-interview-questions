@@ -1,7 +1,4 @@
-
-# English
-
-# Technical
+# iOS Interview Questions
 
 1. Objective-C
 2. Swift
